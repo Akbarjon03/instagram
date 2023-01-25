@@ -7,9 +7,6 @@
  - Upload Images,
  - Comments
 
-
-
-
 ## Authors
 
 - [@Akbarjon03](https://www.github.com/Akbarjon03)
@@ -26,6 +23,9 @@
 ## Demo
 
 
+## Screenshots
+
+<img scr="./pictures/1.png" alt="images"/>
 
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akbarjon-odilov-330a16232/)
