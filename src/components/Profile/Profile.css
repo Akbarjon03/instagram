@@ -1,0 +1,16 @@
+.ProfileWrapper {
+    height: 100vh;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.ButtonsContainer {
+    display: flex;
+    gap: 10px;
+}
+
+.StatisticsWrap {
+    padding: 20px 0;
+}

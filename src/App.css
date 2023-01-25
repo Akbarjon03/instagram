@@ -1,0 +1,11 @@
+.AppContainer {
+  background-color: rgb(250 250 250);
+}
+
+.BodyWrapper {
+  width: 100%;
+  @media (min-width: 750px) {
+    width: 75%;
+    margin: auto;
+  }
+}

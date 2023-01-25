@@ -1,0 +1,41 @@
+.HeaderContainer {
+    top: 0;
+    z-index: 10;
+    background-color: #fff;
+    padding: 10px 20px;
+    border-bottom: 1px solid rgb(212 212 212);
+    @media (min-width: 750px) {
+        padding: 10px 0;
+    }
+}
+
+.ContentsWrap {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+    @media (min-width: 750px) {
+        width: 75%;
+        margin: auto;
+    }
+}
+
+.WordLogoContainer {
+    display: block;
+    object-fit: contain;
+    height: 35px;
+}
+
+.InputContainer {
+    display: flex;
+    color: gray;
+    background-color: rgb(229 229 229);
+    align-items: center;
+    border-radius: 5px;
+    min-width: 250px;
+}
+
+.NavOptionsContainer {
+    display: flex;
+    gap: 15px;
+}
