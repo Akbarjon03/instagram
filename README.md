@@ -25,8 +25,8 @@
 
 ## Screenshots
 
-<img src="./pictures/1.png"  width="900" height="700">
-<img src="./pictures/2.png"  width="900" height="700">
+<img src="./pictures/1.png"  width="900" height="500">
+<img src="./pictures/2.png"  width="900" height="600">
 <img src="./pictures/3.png"  width="900" height="700">
 <img src="./pictures/4.png"  width="900" height="700">
 
