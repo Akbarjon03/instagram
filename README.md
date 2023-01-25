@@ -26,9 +26,9 @@
 ## Screenshots
 
 <img src="./pictures/1.png"  width="900" height="500">
-<img src="./pictures/2.png"  width="900" height="600">
-<img src="./pictures/3.png"  width="900" height="700">
-<img src="./pictures/4.png"  width="900" height="700">
+<img src="./pictures/2.png"  width="900" height="500">
+<img src="./pictures/3.png"  width="900" height="500">
+<img src="./pictures/4.png"  width="900" height="500">
 
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akbarjon-odilov-330a16232/)
