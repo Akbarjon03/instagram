@@ -21,7 +21,7 @@
 
 
 ## Demo
-
+https://instagram-qwasar.netlify.app/
 
 ## Screenshots
 
